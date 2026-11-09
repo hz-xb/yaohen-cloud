@@ -1,0 +1,8 @@
+{
+  "versionCode": 62,
+  "versionName": "1.6.0",
+  "apkUrl": "",
+  "sha256": "0e22120664ab40e6cb910709b75ff979925c189e0a28074b2555747f93e13f8b",
+  "notes": "换了包名与应用名，需卸载旧版后安装。",
+  "forceUpdate": false
+}
