@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
-  "versionName": "1.6.5",
+  "versionCode": 68,
+  "versionName": "1.6.6",
   "apkUrl": "",
-  "sha256": "e5b0d050e90d7306b5c1fd7bbfc4b181d24a259b8749eefccfe10f25378ca784",
-  "notes": "连接失败后重新扫描本机无线调试端口，换到新端口自动再连一次；之前一直用缓存里的旧端口，所以卡在「连接中」。",
+  "sha256": "c55dc7b36f7a953ddee68655d57b9305366cb1f1efbfda048a00de2ab93b30a2",
+  "notes": "配对和连接都加了本机回环兜底：mDNS 给的地址连不通时自动走 127.0.0.1 再试，不再误报「不在同一网络」。",
   "forceUpdate": false
 }
