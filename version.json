@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "1.6.1",
+  "versionCode": 64,
+  "versionName": "1.6.2",
   "apkUrl": "",
-  "sha256": "b069a8dbb7ac1d07b3cdcf3bd2c0a770122c7ba25fac6fb54b7d93d04ea79436",
-  "notes": "修复启动卡在“正在校验安装包”，换上新图标。",
+  "sha256": "6367f333bbac2ed29df3923b7651e56063cd5babb63f6110a5b4f5010009a8c1",
+  "notes": "清理包内残留的旧标识，内部存储与配对键名全部换成钥痕。",
   "forceUpdate": false
 }
