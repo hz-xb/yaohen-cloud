@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "1.6.7",
+  "versionCode": 70,
+  "versionName": "1.6.8",
   "apkUrl": "",
-  "sha256": "b6168c6432588ccfc72d16d4806d0283cb00307cf008e475b1549f11b9b59c42",
-  "notes": "配对框开着时先走配对再重扫连接端口：adbd 在配对期间会停掉连接服务，之前就是这时硬连导致「端口连上了但设备没回话」。",
+  "sha256": "05a276cb11c5fa8c377280d7d7c9934b4470d9c3cd30f5d591531a9cdbf0029e",
+  "notes": "不再用缓存的配对端口：只用当场扫到的配对服务，配对最多等 12 秒，避免配对框一关就卡在「正在配对」。",
   "forceUpdate": false
 }
