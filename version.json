@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "1.7.1",
-  "url": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.7.1.apk",
-  "apkUrl": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.7.1.apk",
-  "sha256": "39b7490e32b6a5ff995049a901726da76ce54f8119a094915b942762dd3217cb",
-  "notes": "共享库可以点开查看与导入了；更新按钮不再无响应"
+  "versionCode": 74,
+  "versionName": "1.8.0",
+  "url": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.8.0.apk",
+  "apkUrl": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.8.0.apk",
+  "sha256": "5a238e3544d0c09188e2edbcb1580bf80a0aa53d7549c4778d616c6c174ecece",
+  "notes": "界面换成苹果液态玻璃；共享库与更新下载继续可用"
 }
