@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "1.6.2",
+  "versionCode": 65,
+  "versionName": "1.6.3",
   "apkUrl": "",
-  "sha256": "6367f333bbac2ed29df3923b7651e56063cd5babb63f6110a5b4f5010009a8c1",
-  "notes": "清理包内残留的旧标识，内部存储与配对键名全部换成钥痕。",
+  "sha256": "ba11245d2d02334ce4341d752bb92194c173fd0c1a37f40f092a3837e6bf62b5",
+  "notes": "云端改三条链路依次尝试（raw / ghproxy / jsDelivr），设置页会显示实际走通的那条。",
   "forceUpdate": false
 }
