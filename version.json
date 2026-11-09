@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "1.6.3",
+  "versionCode": 66,
+  "versionName": "1.6.4",
   "apkUrl": "",
-  "sha256": "ba11245d2d02334ce4341d752bb92194c173fd0c1a37f40f092a3837e6bf62b5",
-  "notes": "云端改三条链路依次尝试（raw / ghproxy / jsDelivr），设置页会显示实际走通的那条。",
+  "sha256": "8e9278b8021774b80990574a086679489fb933e9beab5763205f15e47991dcbc",
+  "notes": "云端改为国内 Gitee 优先，取不到再走 GitHub 与镜像。",
   "forceUpdate": false
 }
