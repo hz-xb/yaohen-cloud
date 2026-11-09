@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "1.6.6",
+  "versionCode": 69,
+  "versionName": "1.6.7",
   "apkUrl": "",
-  "sha256": "c55dc7b36f7a953ddee68655d57b9305366cb1f1efbfda048a00de2ab93b30a2",
-  "notes": "配对和连接都加了本机回环兜底：mDNS 给的地址连不通时自动走 127.0.0.1 再试，不再误报「不在同一网络」。",
+  "sha256": "b6168c6432588ccfc72d16d4806d0283cb00307cf008e475b1549f11b9b59c42",
+  "notes": "配对框开着时先走配对再重扫连接端口：adbd 在配对期间会停掉连接服务，之前就是这时硬连导致「端口连上了但设备没回话」。",
   "forceUpdate": false
 }
