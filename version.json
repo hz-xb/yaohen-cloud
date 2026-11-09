@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "2.0.1",
-  "url": "https://hz-xb.github.io/xiao/yaohen/yaohen-2.0.1.apk",
-  "apkUrl": "https://hz-xb.github.io/xiao/yaohen/yaohen-2.0.1.apk",
-  "sha256": "fe4902affd5f202e8c9fd280635340cb5fd164c402022237d89f8d27c7aecba5",
-  "notes": "批量推导显示失败原因，已导入的自动跳过"
+  "versionCode": 78,
+  "versionName": "2.0.2",
+  "url": "https://hz-xb.github.io/xiao/yaohen/yaohen-2.0.2.apk",
+  "apkUrl": "https://hz-xb.github.io/xiao/yaohen/yaohen-2.0.2.apk",
+  "sha256": "ba2386fa7b3d2e44ec7de15fa08f6b66f0b398675d259e78c1b9941022e4f1f3",
+  "notes": "移除批量推导入口"
 }
