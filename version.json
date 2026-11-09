@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "1.7.0",
-  "url": "",
-  "apkUrl": "",
-  "sha256": "52915be645b8f4bdb386a3ca70e5dc01012c53d72f26f69fcefdf64b29d994d7",
-  "notes": "新增公开 profile 共享库"
+  "versionCode": 73,
+  "versionName": "1.7.1",
+  "url": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.7.1.apk",
+  "apkUrl": "https://hz-xb.github.io/xiao/yaohen/yaohen-1.7.1.apk",
+  "sha256": "39b7490e32b6a5ff995049a901726da76ce54f8119a094915b942762dd3217cb",
+  "notes": "共享库可以点开查看与导入了；更新按钮不再无响应"
 }
