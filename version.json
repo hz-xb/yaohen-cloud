@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "1.6.9",
+  "versionCode": 72,
+  "versionName": "1.7.0",
+  "url": "",
   "apkUrl": "",
-  "sha256": "cc52ad9804e5ff15835a4cadd8e2ba4d8f941029f8a8864a1492616c1fe3538f",
-  "notes": "和 1.5.11 用同一套握手：TLS 升级后不再重发 CNXN，避免 adbd 把会话重置成「无响应」。",
-  "forceUpdate": false
+  "sha256": "52915be645b8f4bdb386a3ca70e5dc01012c53d72f26f69fcefdf64b29d994d7",
+  "notes": "新增公开 profile 共享库"
 }
